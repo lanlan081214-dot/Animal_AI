@@ -1,0 +1,11 @@
+# Animal AI - dependencies
+# Recommended Python: 3.13
+streamlit
+pandas
+requests
+Pillow
+python-dotenv
+google-genai
+torch
+torchvision
+h5py
